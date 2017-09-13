@@ -1,0 +1,22 @@
+{
+  "name": "express-app",
+  "version": "1.0.0",
+  "description": "Practice using express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ogcule/express-app.git"
+  },
+  "author": "Oliver Cule",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ogcule/express-app/issues"
+  },
+  "homepage": "https://github.com/ogcule/express-app#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
